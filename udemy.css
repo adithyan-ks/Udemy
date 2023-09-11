@@ -1,0 +1,236 @@
+.header{
+    width: 100%;
+    height: 77px;
+    background-color: #eceb98;
+}
+body{
+    margin: 0;
+    font-family: Helvetica,Arial,sans-serif;
+}
+.new{
+    padding-top: 21px;
+    float: left;   
+    margin-left: 562px;
+}
+.new-text{
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+.head-text{
+    padding-top: 21px;
+    float: left;
+    margin-left: 5px;
+}
+.head-end{
+    padding-top: 26px;
+    float: left;
+    margin-left: -457px;
+    font-weight: bold;
+    font-size: 18px;
+}
+.header2{
+    width: 100%;
+    height: 70px;
+    background-color: #ffffff;
+    border-color: gray;
+    box-shadow: 0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08);
+    z-index: 1010;
+}
+.udemy-logo{
+    
+    width: 92px;
+    margin-left: 25px;
+}
+.logo{
+    width: 92px;
+    margin-top: 17px;
+    margin-left: 3px;
+    cursor: pointer;
+}
+.Categories{
+    margin-left: 137px;
+    margin-top: -28px;
+    font-size: 13px;
+    color: gray;
+    cursor: pointer;
+}
+.search{
+    width: 1048px;
+    margin-top: -45px;
+    padding: 9px;
+    padding-left: 48px;
+    height: 29px;
+    border-radius: 60px;
+    font-size: 13px;
+}
+.form{
+    margin-left: 219px;
+    margin-top: -16px;
+} 
+.bus{
+    margin-left: 1372px;
+    margin-top: -32px;
+    font-size: 13px;
+    color: gray;
+    cursor: pointer;
+}
+.teach{
+    margin-left: 1493px;
+    margin-top: -15px;
+    font-size: 13px;
+    color: gray;
+    cursor: pointer;
+}
+
+.search-logo{
+    
+    float: left;
+    width: 22px;
+    float: left;
+    margin-left: 14px;
+    margin-top: -31px;
+}
+
+.cart-align{
+    margin-left: 1605px;
+    margin-top: -29px;
+}
+.cart{
+    width: 32px;
+    cursor: pointer;
+
+}
+.login-align{
+    margin-top: -31px;
+
+}
+.login{
+    background-color: #ffffff;
+    border-color: #575c64;
+    color: black;
+    margin-left: 1670px;
+    width: 73px;
+    height: 41px;
+    margin-top: -20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.login:hover{
+    background-color: #b7bcc6;
+
+}
+
+.sign-align{
+    margin-top: -30px;
+
+}
+.sign{
+    background-color: #000000;
+    border-color: #575c64;    
+    color: rgb(255, 255, 255);
+    margin-left: 1757px;
+    width: 73px;
+    height: 41px;
+    margin-top: -20px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+.sign:hover{
+    background-color: #b7bcc6;
+}
+.web-align{
+    margin-left: 1844px;
+    margin-top: -41px;
+}
+
+
+.web-img{
+    width: 32px;
+    cursor: pointer;
+
+}
+.middle-img{
+    margin-left: 289px;
+    
+}
+.arrow-right{
+    width: 40px;
+    cursor: pointer;
+
+}
+.arrow-align{
+    margin-top: -229px;
+    margin-left: 1580px;
+}
+.arrow-left{
+    width: 40px;
+    cursor: pointer;
+
+}
+.arrow2-align{
+    margin-top: -46px;
+    margin-left: 297px;
+}
+.screen{
+    width: 405px;
+    height: 170px;
+    background-color: #ffffff;
+    position: relative;
+    box-shadow: 0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08);
+    margin-left: 362px;
+    margin-top: -139px;
+    font-family: serif;
+    color: #000000;
+}
+.sub{
+    margin-left: 39px;
+    padding-top: 26px;
+    font-size: 36px;
+}
+.skill{
+    margin-left: 39px;
+    padding-top: -32px;
+    font-size: 17px;
+    font-family: ui-monospace;
+}
+.footer{
+    background-color: #f7f9fa;
+    height: 171px;
+    
+}
+
+
+.part{
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: space-between;
+    margin-top: 24px;
+    margin-left: 350px;
+    margin-right: 356px;
+}
+.foot{
+    width: 100%;
+    height: 81px;
+    padding-top: 76px;
+    margin-top: 173px;
+}
+.partners-logo{
+    justify-self: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.trust{
+    color: #6a6f73;
+    font-weight: 400;
+    margin-bottom: -0.6rem;
+    font-size: 20px;
+    max-width: 100%;
+    margin-left: 637px;
+    margin-top: -21px;
+    
+}
